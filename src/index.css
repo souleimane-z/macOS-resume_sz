@@ -1,13 +1,18 @@
 body {
   width: 100wh;
   height: 100vh;
-  background-image: url('./asset/img/bg-main.jpg');
+  /* background-image: url('./asset/img/bg-main.jpg'); */
+  /* background-image: url('./asset/img/bg-alternative.jpg'); */
+  /* background-image: url('./asset/img/bg-alternative2.jpg'); */
+  /* background-image: url('./asset/img/bg-main2.jpg'); */
+  background-image: url('./asset/img/bg-alternative3.jpg');
   background-size: cover;
   margin : 0;
   padding: 0;
   overflow: hidden;
   font-family: "SF-D-SemiBold";
   font-size: 1rem;
+  letter-spacing: 1px;
   color: white;
 }
 

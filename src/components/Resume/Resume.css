@@ -1,0 +1,11 @@
+.resume-main-container {
+    width: 90vw;
+    height: 90vh;
+    background-color: rgba(0, 0, 0, 0.8); 
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 1rem;
+}
